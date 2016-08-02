@@ -36,6 +36,7 @@ UserController.prototype.createUser = function(req, res) {
   });
 }
 
+
 // UserController.prototype.createUser = function(req, res) {
 //   User.create({
 //     name: req.body.name
